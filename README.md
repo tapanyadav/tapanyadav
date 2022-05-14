@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
+- 💼 Founder of Goodsy
+
 - 🔭 I’m currently working on **Socy App**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://tapan_portfolio.com)** -->
 
 - 📫 How to reach me **yadav.tapanpr@gmail.com**
-
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
 ## 🚀 Languages and Tools:
 
